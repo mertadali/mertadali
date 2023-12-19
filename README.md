@@ -1,13 +1,15 @@
-<h1 align="center">Hi , I'm Mert</h1>
+<h1 align="center">Hi , I'm Mert Adalı</h1>
 <h3 align="center">Android App Developer</h3>
 
 - 🔭 I’m currently working on **InstaClone**
-- Hello everyone I'm Mert. I'm a Math and Computer Science student at Osmangazi University. I was in high school when I decided to choose that department. I want to be an Android developer in the future as soon as ı graduated. I am interested in mobile application development for 1 year and also I have been studying mathematics since high school. I am trying to improve myself to be successful in this area. I took an English course for almost two years. I am learning Java and Kotlin from different medias therefore I feel ready to enter this industry. 
-I am good at practical thinking, critical analysis and I love being social and doing activities that have made me more enterprises. Topics which ı known are Kotlin, beginner level Java, OOP, Fragment, JSON & API, Firebase, Git-Github, Retrofit, RecyclerView, RxJava, Room Database, Layout, SQLite, Android Studio, etc.
+- Hello everyone I'm Mert. I'm a Math and Computer Science student at Osmangazi University. I am good at practical thinking, critical analysis and I love being social and doing activities that have made me more enterprises. Topics which ı known are Kotlin, beginner level Java, OOP, Fragment, JSON & API, Firebase, Git-Github, Retrofit, RecyclerView, RxJava, Room Database, Layout, SQLite, Android Studio, etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mert-adal%c4%b1-120726229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mert-adal%c4%b1-120726229/" height="30" width="40" /></a>
+<a href="mailto:mertadali605@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="https://www.linkedin.com/in/mert-adal%c4%b1-120726229/" height="35" width="55" /></a>
+
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
