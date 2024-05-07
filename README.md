@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mert Adalı</h1>
 <h3 align="center">Android App Developer</h3>
 
-- 🔭 I’m currently working on **Fragment & Navigation**
+- 🔭 I’m currently working on **Advanced Map Application**
 - Hello everyone I'm Mert. I'm a Math and Computer Science student at Osmangazi University. I am good at practical thinking, critical analysis and I love being social and doing activities that have made me more enterprises. Topics which ı known are Kotlin, beginner level Java, OOP, Fragment, JSON & API, Firebase, Git-Github, Retrofit, RecyclerView, RxJava, Room Database, Layout, SQLite, Android Studio, etc.
 
 <h3 align="left">Connect with me:</h3>
