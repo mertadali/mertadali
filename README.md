@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mert-adal%c4%b1-120726229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mert-adal%c4%b1-120726229/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mert-adal%C4%B1-120726229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mert-adal%c4%b1-120726229/" height="30" width="40" /></a>
 <a href="mailto:mertadali605@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="https://www.linkedin.com/in/mert-adal%c4%b1-120726229/" height="35" width="55" /></a>
 
  
